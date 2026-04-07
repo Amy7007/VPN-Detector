@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_light">#0B0F14</color>
+    <color name="surface_light">#121821</color>
+    <color name="surface_inner_light">#18202B</color>
+    <color name="stroke_light">#263244</color>
+
+    <color name="text_primary_light">#F5F7FA</color>
+    <color name="text_secondary_light">#98A2B3</color>
+
+    <color name="accent_primary">#8B5CF6</color>
+
+    <color name="signal_red">#F97066</color>
+    <color name="signal_green">#32D583</color>
+    <color name="signal_orange">#FDB022</color>
+    <color name="signal_blue">#53B1FD</color>
+    <color name="signal_gray">#98A2B3</color>
+
+    <color name="chip_red">#D92D20</color>
+    <color name="chip_green">#12B76A</color>
+    <color name="chip_orange">#F79009</color>
+    <color name="chip_blue">#2E90FA</color>
+    <color name="chip_gray">#667085</color>
+</resources>

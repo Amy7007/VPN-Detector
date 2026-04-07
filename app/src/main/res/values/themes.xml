@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VpnDetector" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="appColorBackground">@color/bg_light</item>
+        <item name="appColorOnBackground">@color/text_primary_light</item>
+        <item name="appColorSurface">@color/surface_light</item>
+        <item name="appColorOnSurface">@color/text_primary_light</item>
+        <item name="appColorOnSurfaceMuted">@color/text_secondary_light</item>
+        <item name="appColorSurfaceInner">@color/surface_inner_light</item>
+        <item name="appColorStroke">@color/stroke_light</item>
+        <item name="appColorAccentPrimary">@color/accent_primary</item>
+    </style>
+
+</resources>
